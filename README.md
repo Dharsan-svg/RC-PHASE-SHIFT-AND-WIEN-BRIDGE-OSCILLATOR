@@ -61,6 +61,7 @@ To prevent loading,
                                                    R=1/2πfC
      =1/2*3.14*1*103*0.1*10-6   
      = 1.59KΩ.
+	 
                     Assume R1 = 10R & find Rf from Rf = 2R1
                     Therefore R1 = 1.5K *10=15KΩ
                                      Rf = 15K *2=30KΩ
